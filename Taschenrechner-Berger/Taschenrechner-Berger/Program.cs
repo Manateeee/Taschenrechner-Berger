@@ -22,7 +22,7 @@ namespace Taschenrechner_Berger
                 Console.WriteLine("1. Addition");
                 Console.WriteLine("2. Subtraktion");
                 int operation = Convert.ToInt32(Console.ReadLine());
-
+                Console.WriteLine("Hui");
                 switch(operation)
                 {
                     case 1:
